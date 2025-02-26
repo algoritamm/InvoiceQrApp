@@ -1,0 +1,69 @@
+{
+  "$schema": "https://raw.githubusercontent.com/neutralinojs/neutralinojs/main/schemas/neutralino.config.schema.json",
+  "applicationId": "js.neutralino.sample",
+  "version": "1.0.0",
+  "defaultWindow": {
+    "icon": "/resources/wwwroot/img/favicon.ico"
+  },
+  "defaultMode": "window",
+  "port": 3000,
+  "documentRoot": "/resources/",
+  "url": "/views/index.html",
+  "enableServer": true,
+  "enableNativeAPI": true,
+  "tokenSecurity": "one-time",
+  "logging": {
+    "enabled": true,
+    "writeToLogFile": true
+  },
+  "nativeAllowList": [
+    "app.*",
+    "os.*",
+    "filesystem.*",
+    "debug.log"
+  ],
+  "modes": {
+    "window": {
+      "title": "InvoiceQr",
+      "width": 800,
+      "height": 500,
+      "minWidth": 400,
+      "minHeight": 200,
+      "center": true,
+      "fullScreen": false,
+      "alwaysOnTop": false,
+      "icon": "/resources/wwwroot/img/favicon.ico",
+      "enableInspector": false,
+      "borderless": false,
+      "maximize": false,
+      "hidden": false,
+      "resizable": true,
+      "exitProcessOnClose": false
+    }
+  },
+  "cli": {
+    "binaryName": "InvoiceQr.Web",
+    "resourcesPath": "/resources/",
+    "extensionsPath": "/extensions/",
+    "clientLibrary": "/resources/wwwroot/js/neutralino.js",
+    "binaryVersion": "5.6.0",
+    "clientVersion": "5.6.0",
+    "distributionPath": "/publish"
+  },
+  "buildScript": {
+    "mac": {
+      "architecture": ["x64", "arm64", "universal"],
+      "minimumOS": "10.13.0",
+      "appName": "InvoiceQr.App",
+      "appBundleName": "InvoiceQr.App",
+      "appIdentifier": "com.marketmix.ext.bun.demo",
+      "appIcon":  "/resources/wwwroot/img/favion.ico"
+    },
+    "win": {
+      "architecture": ["x64"],
+      "appName": "InvoiceQr.App",
+      "appIcon": "/resources/wwwroot/img/favicon.ico"
+    }
+  },
+  "author": "Marijana Jerinic"
+}

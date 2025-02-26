@@ -1,0 +1,72 @@
+INFO 2025-02-26 11:12:06,290 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 11:12:07,555 NE_RS_UNBLDRE: Unable to load application resource file /InvoiceQr.Web/resources/views/index.html api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 11:12:29,767 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:12:44,426 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:13:37,392 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:14:07,386 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:17:22,365 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 11:17:23,619 NE_RS_UNBLDRE: Unable to load application resource file /InvoiceQr.Web/resources/resources/views/index.html api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 11:17:46,110 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 11:17:46,507 NE_RS_UNBLDRE: Unable to load application resource file /InvoiceQr.Web/resources/views/index.html api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 11:18:35,985 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:20:19,479 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:20:52,868 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:21:11,038 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:21:36,852 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:25:59,412 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:27:39,727 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:30:44,521 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:31:32,684 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:32:50,454 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:33:53,487 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:35:41,864 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 11:35:43,635 NE_RS_UNBLDRE: Unable to load application resource file /resources/wwwroot/css/bootstrap.min.css.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+ERROR 2025-02-26 11:35:43,636 NE_RS_UNBLDRE: Unable to load application resource file /resources/sm/cb4335d1b03e933ed85cb59fffa60cf51f07567ed09831438c60f59afd166464.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 11:35:43,711 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 11:35:48,291 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:09:05,482 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:09:07,435 NE_RS_UNBLDRE: Unable to load application resource file /resources/sm/cb4335d1b03e933ed85cb59fffa60cf51f07567ed09831438c60f59afd166464.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:09:07,438 NE_RS_UNBLDRE: Unable to load application resource file /resources/wwwroot/css/bootstrap.min.css.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 12:09:07,519 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:09:21,150 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:09:24,828 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:09:26,214 NE_RS_UNBLDRE: Unable to load application resource file /resources/sm/cb4335d1b03e933ed85cb59fffa60cf51f07567ed09831438c60f59afd166464.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:09:26,215 NE_RS_UNBLDRE: Unable to load application resource file /resources/wwwroot/css/bootstrap.min.css.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 12:09:26,278 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:11:32,320 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:21:10,316 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:21:11,637 NE_RS_UNBLDRE: Unable to load application resource file /resources/wwwroot/css/bootstrap.min.css.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:21:11,640 NE_RS_UNBLDRE: Unable to load application resource file /resources/sm/cb4335d1b03e933ed85cb59fffa60cf51f07567ed09831438c60f59afd166464.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 12:21:11,704 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:21:16,205 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:22:06,913 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:22:08,225 NE_RS_UNBLDRE: Unable to load application resource file /resources/sm/cb4335d1b03e933ed85cb59fffa60cf51f07567ed09831438c60f59afd166464.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:22:08,227 NE_RS_UNBLDRE: Unable to load application resource file /resources/wwwroot/css/bootstrap.min.css.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 12:22:08,295 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:22:10,750 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:22:38,988 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:22:40,305 NE_RS_UNBLDRE: Unable to load application resource file /resources/wwwroot/css/bootstrap.min.css.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:22:40,306 NE_RS_UNBLDRE: Unable to load application resource file /resources/sm/cb4335d1b03e933ed85cb59fffa60cf51f07567ed09831438c60f59afd166464.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 12:22:40,371 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:22:44,007 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:32:13,815 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:32:14,947 NE_RS_UNBLDRE: Unable to load application resource file /resources/sm/cb4335d1b03e933ed85cb59fffa60cf51f07567ed09831438c60f59afd166464.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:32:14,949 NE_RS_UNBLDRE: Unable to load application resource file /resources/wwwroot/css/bootstrap.min.css.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 12:32:15,007 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:46:31,390 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:46:32,733 NE_RS_UNBLDRE: Unable to load application resource file /resources/sm/cb4335d1b03e933ed85cb59fffa60cf51f07567ed09831438c60f59afd166464.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+ERROR 2025-02-26 12:46:32,735 NE_RS_UNBLDRE: Unable to load application resource file /resources/wwwroot/css/bootstrap.min.css.map api\debug\debug.cpp:20 mjerinic@MJERINIC1
+INFO 2025-02-26 12:46:32,828 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:46:37,299 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:47:00,515 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:47:01,911 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 12:47:15,891 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 13:38:48,956 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 13:38:50,330 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 13:38:53,621 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 13:59:15,640 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 13:59:17,413 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 13:59:20,621 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 14:06:25,018 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 14:06:26,397 Application is starting up... api\debug\debug.cpp:17 mjerinic@MJERINIC1
+INFO 2025-02-26 14:06:28,882 Application is sutting down... api\debug\debug.cpp:17 mjerinic@MJERINIC1
