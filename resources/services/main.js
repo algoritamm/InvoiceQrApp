@@ -38,7 +38,7 @@ Neutralino.debug.log("Application is starting up...");
 // Register event listeners
 Neutralino.events.on("windowClose", onWindowClose);
 
-Neutralino.window.on('close', () => {
+Neutralino.events.on('close', () => {
     Neutralino.app.exit();
 });
 
